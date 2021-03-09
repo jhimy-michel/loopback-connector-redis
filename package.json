@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "async": "^2.6.1",
-    "redis": "^2.8.0",
+    "redis": "^3.0.2",
     "strong-globalize": "^4.1.1"
   }
 }
